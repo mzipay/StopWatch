@@ -1,0 +1,8 @@
+*.swp
+*.bak
+stopwatch.log
+stopwatchdb.*
+!trunk/src/stopwatchdb.*
+StopWatch-1.0.85-src.7z
+classes/
+dist/

@@ -1,0 +1,5 @@
+Main-Class: net.ninthtest.stopwatch.StopWatchUI
+Sealed: true
+Name: net/ninthtest/
+Implementation-Version: 1.0.85
+Implementation-Vendor: Matthew Zipay <mattzATninthtestDOTinfo>
